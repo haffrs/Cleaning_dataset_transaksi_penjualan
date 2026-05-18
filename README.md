@@ -12,3 +12,4 @@ Dataset yang digunakan berada pada folder:
 
 ```bash
 data/data_transaksi_penjualan_kotor
+dengan format file .xlsx
