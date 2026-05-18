@@ -24,30 +24,28 @@ Project ini menggunakan:
 
 ## Langkah Data Cleaning
 1. Import Dataset
-Membuka dataset mentah di Excel.
+   Membuka dataset mentah di Excel.
 
-2. Data Inspection
-Pengecekan:
-- Missing values
-- Data duplikat
-- Kesalahan format
-- Inkonsistensi penulisan
+3. Data Inspection
+   Pengecekan:
+   - Missing values
+   - Data duplikat
+   - Kesalahan format
+   - Inkonsistensi penulisan
   
 3. Data Cleaning
-Beberapa fitur Excel yang digunakan:
-- Remove Duplicates
-- Find & Replace
-- Text to Columns
-- TRIM()
-- CLEAN()
-- Data Validation
+   Beberapa fitur Excel yang digunakan:
+   - Remove Duplicates
+   - Find & Replace
+   - TRIM()
+   - Data Validation
 
 4. Standardisasi Data
-- Format tanggal menjadi DD/MM/YYYY
-- Penyeragaman huruf kapital
-- Perbaikan nama kategori
+   - Format tanggal menjadi DD/MM/YYYY
+   - Penyeragaman huruf kapital
+   - Perbaikan nama kategori
   
 5. Export Clean Data
 Dataset hasil cleaning disimpan sebagai:
 ```bash
-cleaned_data_transaksi_penjualan.xlsx
+data_transaksi_penjualan_CLEANED.xlsx
