@@ -54,8 +54,10 @@ Project ini menggunakan:
    data_transaksi_penjualan_CLEANED.xlsx
    ```
 
-📊 Contoh Perbaikan Data
-Masalah	Sebelum	Sesudah
-Duplicate Data	120 rows	0
-Missing Values	45 cells	0
-Format Tanggal	12-01-24	12/01/2024
+##📊 Contoh Perbaikan Data
+
+| Masalah | Sebelum | Sesudah |
+| --- | --- | --- |
+| Duplicate Data | 1 rows | 0 |
+| Missing Values | Baris 2, Kolom 2 | 0 |
+| Format Tanggal | Jan 17 2024 | 2024-01-18 |
