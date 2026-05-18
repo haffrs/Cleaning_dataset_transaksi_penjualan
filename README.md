@@ -54,7 +54,7 @@ Project ini menggunakan:
    data_transaksi_penjualan_CLEANED.xlsx
    ```
 
-##📊 Contoh Perbaikan Data
+## 📊 Contoh Perbaikan Data
 
 | Masalah | Sebelum | Sesudah |
 | --- | --- | --- |
