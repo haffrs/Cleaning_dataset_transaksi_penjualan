@@ -34,18 +34,19 @@ Project ini menggunakan:
    - Inkonsistensi penulisan
   
 3. Data Cleaning
+   
    Beberapa fitur Excel yang digunakan:
    - Remove Duplicates
    - Find & Replace
    - TRIM()
    - Data Validation
 
-4. Standardisasi Data
+5. Standardisasi Data
    - Format tanggal menjadi DD/MM/YYYY
    - Penyeragaman huruf kapital
    - Perbaikan nama kategori
   
-5. Export Clean Data
+6. Export Clean Data
 Dataset hasil cleaning disimpan sebagai:
 ```bash
 data_transaksi_penjualan_CLEANED.xlsx
