@@ -59,5 +59,7 @@ Project ini menggunakan:
 | Masalah | Sebelum | Sesudah |
 | --- | --- | --- |
 | Duplicate Data | 1 rows | 0 |
-| Missing Values | Baris 2, Kolom 2 | 0 |
+| Missing Values | 5 cells | 0 |
 | Format Tanggal | Jan 17 2024 | 2024-01-18 |
+| Format Kategori | rumah tangga | Rumah Tangga |
+| Format Harga | 8500000 | Rp8.500.000 |
