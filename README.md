@@ -37,6 +37,9 @@ Project ini menggunakan:
    Beberapa fitur Excel yang digunakan:
    - Remove Duplicates
    - Find & Replace
+   - IF()
+   - SUBSTITUE()
+   - PROPER()
    - TRIM()
    - Data Validation
 
