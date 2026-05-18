@@ -22,7 +22,7 @@ Project ini menggunakan:
 - Conditional Formatting
 - Power Query
 
-##Langkah Data Cleaning
+## Langkah Data Cleaning
 1. Import Dataset
 Membuka dataset mentah di Excel.
 
