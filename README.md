@@ -6,3 +6,9 @@ Proyek ini berfokus pada proses pembersihan data menggunakan Microsoft Excel aga
 - Perbaikan typo
 - Formatting tanggal & angka
 - Filtering dan validasi data
+
+## 📂 Dataset
+Dataset yang digunakan berada pada folder:
+
+```bash
+data/data_transaksi_penjualan_kotor
