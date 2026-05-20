@@ -8,8 +8,23 @@ Proyek ini berfokus pada proses pembersihan data menggunakan Microsoft Excel aga
 - Filtering dan validasi data
 
 ## 📂 Dataset
-Dataset yang digunakan berada pada folder:
+### Sumber
+Dataset terbuat dari AI Generated atau lebih tepatnya dari Claude.ai.
 
+### Header Tabel
+- ID Transaksi
+- Tanggal Tranksaksi
+- Nama Pelanggan
+- Produk
+- Kategori
+- Jumlah
+- Harga Satuan
+- Total Harga
+- Kota
+- Status Pembayaran
+- No. HP
+
+Dataset yang digunakan berada pada folder:
 ```bash
 data/data_transaksi_penjualan_kotor.xlsx
 ```
@@ -63,3 +78,17 @@ Project ini menggunakan:
 | Format Tanggal | Jan 17 2024 | 2024-01-18 |
 | Format Kategori | rumah tangga | Rumah Tangga |
 | Format Harga | 8500000 | Rp8.500.000 |
+
+## ✅ Hasil Akhir
+Dataset bersih dan siap digunakan untuk:
+- Data Analysis
+- Dashboard
+- Reporting
+
+## 📷 Preview
+<img width="1336" height="745" alt="image" src="https://github.com/user-attachments/assets/6937f255-4cbb-46d6-abb5-b1d52a8f8c6e" />
+
+👤 Author
+Mohamad Hafiz Sabar
+GitHub: https://github.com/haffrs 
+
