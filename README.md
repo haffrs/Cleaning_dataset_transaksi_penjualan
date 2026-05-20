@@ -88,7 +88,7 @@ Dataset bersih dan siap digunakan untuk:
 ## 📷 Preview
 <img width="1336" height="745" alt="image" src="https://github.com/user-attachments/assets/6937f255-4cbb-46d6-abb5-b1d52a8f8c6e" />
 
-👤 Author
+## 👤 Author
 Mohamad Hafiz Sabar
 GitHub: https://github.com/haffrs 
 
